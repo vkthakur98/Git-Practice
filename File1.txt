@@ -1,5 +1,5 @@
 This is file one
 This is file one with no bugs
 Changes made in master branch
-
 I made another change to the file
+Made another changes to the file
